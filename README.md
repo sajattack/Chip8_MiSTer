@@ -3,7 +3,7 @@
 This is a Verilog implementation of the SuperChip virtual machine. The implementation can execute Chip-8 and SuperChip programs. Hybrids, the Chip-8X and MegaChip extensions are not supported.
 
 This core has been ported from MiST to MiSTer by Paul Sajna.
-Original core is by Carsten Elton Sørensen.
+[Original core](https://bitbucket.org/csoren/fpga-chip8/) is by Carsten Elton Sørensen.
 
 For an introduction to Chip-8 and SuperChip, please see [the Chip-8 article on Wikipedia](https://en.wikipedia.org/wiki/CHIP-8). 
 
